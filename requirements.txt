@@ -1,0 +1,9 @@
+langchain-community
+fastembed
+faiss-cpu
+groq
+langchain-groq
+python-dotenv
+pypdf
+docx2txt
+python-dotenv
